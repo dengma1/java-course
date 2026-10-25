@@ -1,5 +1,18 @@
 package week1;
+// This is a single-line comment. The compiler ignores it.
 
+
+// It is used to explain what the code does.
+
+/*
+* This is a multi-line comment.
+* It can span multiple lines.
+* Used for longer explanations or documentation.
+*/
+
+// public: access modifier – this class is accessible from anywhere.
+// class: keyword to define a class.
+// HelloWorld: the name of the class (must match the file name).
 public class HelloWorld {
     // public: accessible from anywhere.
 // static: this method belongs to the class, not an object.
